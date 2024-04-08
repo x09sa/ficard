@@ -8,11 +8,11 @@ function Header() {
           <div class="sm:flex sm:items-center sm:justify-between">
             <div class="text-center sm:text-left">
               <h1 class="text-2xl font-bold text-gray-900 sm:text-3xl text-primary">
-                انشاء بطاقة عيد مبارك 🎉
+               🥳 انشاء بطاقة معايدة من عقول 
               </h1>
 
               <p class="mt-1.5 text-sm text-gray-500 sm:mt-2 text-center sm:text-right">
-                عيدكم مبارك وكل عام وأنتم بألف خير
+                 عيدكم مبارك وكل عام وأنتم بألف خير
               </p>
             </div>
 
